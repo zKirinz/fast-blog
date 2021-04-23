@@ -1,8 +1,12 @@
+# Kien' Fast Blog
+A fast-development blog that I created very quick within a day.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+First, create a `.env.local` file with the template file `.env.local.example`.
 
-First, run the development server:
+After that, run the development server:
 
 ```bash
 npm run dev
