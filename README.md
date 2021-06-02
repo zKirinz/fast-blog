@@ -1,9 +1,17 @@
 # Kien' Fast Blog <img src="./public/favicon.ico" width="80" height="80" />
-A fast-development blog that I created very quick within a day.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## What is Kien's Fast Blog?
+This is a blog that using markdown file to create content for posts.
+Therefore, it's easier to write and edit content as well as don't need writing content features in the app.
 
-## Getting Started
+## Technology
+- Frontend
+  - React - A JavaScript library for building user interfaces
+  - React-Markdown - Markdown Parser
+- Backend
+  - NextJS - Server Side Rendering
+  - Create-next-app - NextJS Starter Template
+## Setup
 First, create a `.env.local` file with the template file `.env.local.example`.
 
 After that, run the development server:
