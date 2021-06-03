@@ -39,5 +39,5 @@ To learn more about Next.js, take a look at the following resources:
 
 # License & copyright
 
-© Trần Trung Kiên, FPT University TP.HCM
+© Kirin Tran, FPT University TP.HCM
 Licensed under the [MIT LICENSE](LICENSE).
