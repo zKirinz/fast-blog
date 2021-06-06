@@ -13,8 +13,8 @@ Therefore, it's easier to write and edit content as well as don't need writing c
   - Create-next-app - NextJS Starter Template
 
 ## Some preview images
-<img src="./docs/images/home.png" width="300" height="244" /><img src="./docs/images/posts.png" width="300" height="244" />
-<img src="./docs/images/post-detail.png" width="300" height="294" />
+<img src="./docs/images/home.png" width="270" height="220" /><img src="./docs/images/posts.png" width="270" height="220" />
+<img src="./docs/images/post-detail.png" width="270" height="265" />
 
 ## Setup
 First, create a `.env.local` file with the template file `.env.local.example`.
