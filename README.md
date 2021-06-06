@@ -1,6 +1,6 @@
 # Kien' Fast Blog <img src="./public/favicon.ico" width="80" height="80" />
 
-## What is Kien's Fast Blog?
+## Description
 This is a blog that using markdown file to create content for posts.
 Therefore, it's easier to write and edit content as well as don't need writing content features in the app.
 
@@ -11,6 +11,11 @@ Therefore, it's easier to write and edit content as well as don't need writing c
 - Backend
   - NextJS - Server Side Rendering
   - Create-next-app - NextJS Starter Template
+
+## Some preview images
+<img src="./docs/images/home.png" width="350" height="285" /><img src="./docs/images/posts.png" width="350" height="285" />
+<img src="./docs/images/post-detail.png" width="350" height="343" />
+
 ## Setup
 First, create a `.env.local` file with the template file `.env.local.example`.
 
